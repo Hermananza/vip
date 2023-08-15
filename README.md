@@ -5,7 +5,7 @@
 </code></pre>
 
 ### PERINTAH UPDATE 
-<pre><code>wget https://abc.xcodehoster.com/update.sh && chmod +x update.sh && ./update.sh</code></pre>
+<pre><code>wget https://raw.githubusercontent.com/Hermananza/vip/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
 ### TESTED ON OS 
 - UBUNTU 20.04.05
@@ -15,7 +15,7 @@
 - Tambah Swap 1GiB
 - Pemasangan yang dinamis
 - Tuning profile pada server
-- Xray Core by [@dharak36](https://github.com/dharak36/Xray-core)
+- Xray Core by [@myridwan](https://github.com/myridwan)
 - Penambahan fail2ban
 - Auto block sebagian ads indo by default
 - Auto clear log per 3 menit
