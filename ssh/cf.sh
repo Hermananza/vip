@@ -10,7 +10,7 @@ read -rp "Sub Domain (Contoh: hcstore123): " -e sub
 DOMAIN=hcstore.my.id
 SUB_DOMAIN=${sub}.hcstore.my.id
 CF_ID=herman.anza@gmail.com
-CF_KEY=72b409eff9a389248440a607c2d1f08173801
+CF_KEY=SYh5dmlTPmZzh3Bi9aIM2-vF_b_sW1SzEK_O2Aze
 set -euo pipefail
 IP=$(wget -qO- ifconfig.me/ip);
 echo "Updating DNS for ${SUB_DOMAIN}..."
